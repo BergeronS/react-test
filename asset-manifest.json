@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.016ba8fc.css",
+    "main.js": "/react-test/static/js/main.0e001e7c.js",
+    "static/media/theintrovertapp_logo.svg": "/react-test/static/media/theintrovertapp_logo.5995eb3b67a866e2abfe43b81d5e1ff0.svg",
+    "static/media/Iphone template.png": "/react-test/static/media/Iphone template.fbdbb3c74179372d160a.png",
+    "index.html": "/react-test/index.html",
+    "main.016ba8fc.css.map": "/react-test/static/css/main.016ba8fc.css.map",
+    "main.0e001e7c.js.map": "/react-test/static/js/main.0e001e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.016ba8fc.css",
+    "static/js/main.0e001e7c.js"
+  ]
+}
